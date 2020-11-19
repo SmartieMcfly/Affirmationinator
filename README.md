@@ -1,3 +1,3 @@
 ﻿# Affirmationinator
 
-Daily Affirmation with Stuart Smalley
+Daily Affirmations with Stuart Smalley
